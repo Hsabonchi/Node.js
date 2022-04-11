@@ -1,4 +1,4 @@
-### Node.js Server and Vue.js Application that allows users to interact with your deckofcards API.
+# Node.js Server and Vue.js Application that allows users to interact with your deckofcards API.
 
 
 ### The application is divided into the following folders:
