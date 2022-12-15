@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "pokemon_app": "file:../../pokemon_app",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "vue-select2": "^0.2.6"
   }
 }
